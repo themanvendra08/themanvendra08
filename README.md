@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Manvendra Singh</h1>
-<h3 align="center">A passionate NodeJS developer from India</h3>
+<h3 align="center">A passionate NodeJS/Axpert developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=themanvendra08&label=Profile%20views&color=0e75b6&style=flat" alt="themanvendra08" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themanvendra08" alt="themanvendra08" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NestJS & Axpert**
 
 - 👨‍💻 All of my projects are available at [https://themanvendra08.github.io/](https://themanvendra08.github.io/)
 
-- 💬 Ask me about **Nodejs, Express, SQL, and NoSQL**
+- 💬 Ask me about **NodeJs, NestJs, ExpressJs, SQL, and NoSQL**
 
 - 📫 How to reach me **manvendra.singh@zysk.tech**
 
